@@ -30,3 +30,7 @@ streamlit == 0.61.0
 # C:\Users\ASUS\Desktop\News Classification app\app.py: 10
 # C:\Users\ASUS\Desktop\News Classification app\app1.py: 14
 wordcloud == 1.7.0
+
+
+# Spacy module
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
