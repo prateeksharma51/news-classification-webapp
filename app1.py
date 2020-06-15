@@ -12,6 +12,8 @@ import matplotlib
 matplotlib.use('Agg')
 from PIL import Image
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+import nltk 
+nltk.download('punkt')
 
 
 news_vectorizer = open('models/final_news_cv_vectorizer.pkl', 'rb')
