@@ -3,7 +3,7 @@
 
 # C:\Users\ASUS\Desktop\News Classification app\app.py: 9
 # C:\Users\ASUS\Desktop\News Classification app\app1.py: 13
-Pillow == 7.0.0
+Pillow == 8.3.2
 sklearn
 # C:\Users\ASUS\Desktop\News Classification app\app.py: 2
 # C:\Users\ASUS\Desktop\News Classification app\app1.py: 4
