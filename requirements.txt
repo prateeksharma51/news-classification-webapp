@@ -7,7 +7,7 @@ Pillow == 7.0.0
 sklearn
 # C:\Users\ASUS\Desktop\News Classification app\app.py: 2
 # C:\Users\ASUS\Desktop\News Classification app\app1.py: 4
-joblib == 0.14.1
+joblib == 1.2.0
 
 # C:\Users\ASUS\Desktop\News Classification app\app.py: 6,7
 # C:\Users\ASUS\Desktop\News Classification app\app1.py: 10,11
